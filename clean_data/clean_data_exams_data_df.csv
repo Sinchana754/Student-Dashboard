@@ -1,0 +1,1001 @@
+exam_id,subject_id,exam_name,exam_date,total_marks,pass_marks,duration_minutes,teacher_id,school_id,exam_type
+1,125,Enterprise-wide holistic open architecture,2024-09-29,100,40,180,531,91,Quiz
+2,161,Horizontal upward-trending installation,2024-05-04,100,40,31,555,9,Quiz
+3,267,Synergized didactic framework,2024-03-02,100,40,135,377,85,Quiz
+4,309,Multi-layered scalable help-desk,2024-03-09,100,40,99,298,96,Midterm
+5,7,Stand-alone incremental archive,2024-09-16,100,40,98,268,59,Quiz
+6,489,Versatile context-sensitive knowledge user,2024-10-10,100,40,121,251,97,Quiz
+7,421,Implemented modular info-mediaries,2024-02-04,100,40,176,911,78,Midterm
+8,64,Integrated maximized superstructure,2024-10-02,100,40,55,270,84,Final
+9,44,Stand-alone object-oriented analyzer,2024-08-16,100,40,85,619,83,Midterm
+10,319,Universal content-based service-desk,2024-07-26,100,40,95,427,30,Midterm
+11,426,Streamlined methodical task-force,2024-02-25,100,40,63,581,91,Midterm
+12,129,Synergized demand-driven hierarchy,2024-09-25,100,40,157,912,43,Final
+13,318,Down-sized web-enabled instruction set,2024-12-12,100,40,178,5,88,Final
+14,81,Persistent value-added portal,2024-07-24,100,40,158,924,76,Quiz
+15,410,Up-sized eco-centric policy,2024-11-05,100,40,159,294,38,Quiz
+16,479,Integrated discrete intranet,2024-09-11,100,40,98,578,93,Final
+17,440,Devolved demand-driven service-desk,2024-10-05,100,40,34,640,42,Midterm
+18,133,Virtual non-volatile encryption,2024-08-26,100,40,140,322,61,Midterm
+19,196,Configurable upward-trending time-frame,2024-04-18,100,40,113,547,15,Final
+20,315,Reduced intangible customer loyalty,2024-08-05,100,40,82,647,30,Final
+21,286,Cross-group transitional matrix,2024-05-04,100,40,60,919,77,Final
+22,309,Focused neutral attitude,2024-05-02,100,40,79,40,91,Quiz
+23,161,Exclusive 6thgeneration projection,2024-11-06,100,40,107,880,46,Quiz
+24,202,Advanced context-sensitive Graphic Interface,2024-10-15,100,40,124,42,35,Final
+25,396,Automated web-enabled concept,2024-10-16,100,40,52,764,20,Midterm
+26,452,Object-based motivating open system,2024-06-13,100,40,91,789,64,Midterm
+27,257,Managed content-based infrastructure,2024-05-11,100,40,122,117,91,Quiz
+28,393,Diverse discrete project,2024-04-25,100,40,101,386,88,Quiz
+29,336,Reverse-engineered heuristic frame,2024-08-22,100,40,51,126,80,Quiz
+30,487,Business-focused scalable analyzer,2024-07-14,100,40,107,269,88,Final
+31,94,Open-source 5thgeneration artificial intelligence,2024-09-15,100,40,92,427,11,Final
+32,401,Stand-alone impactful neural-net,2025-01-27,100,40,66,919,100,Midterm
+33,311,Multi-tiered client-driven interface,2024-07-19,100,40,121,264,67,Final
+34,180,Cross-platform client-driven definition,2024-05-17,100,40,160,971,94,Final
+35,271,Implemented discrete alliance,2024-11-10,100,40,88,473,10,Midterm
+36,425,Proactive composite encryption,2024-10-13,100,40,62,998,28,Final
+37,426,Inverse hybrid info-mediaries,2024-06-20,100,40,45,587,70,Final
+38,29,Switchable tangible workforce,2024-04-23,100,40,136,988,9,Final
+39,131,Integrated 24hour emulation,2024-06-15,100,40,172,987,93,Final
+40,21,Multi-channeled incremental attitude,2024-06-11,100,40,167,328,10,Final
+41,412,Configurable bi-directional orchestration,2024-03-09,100,40,113,253,13,Final
+42,23,Open-architected regional analyzer,2024-04-15,100,40,139,351,52,Quiz
+43,225,Organic dedicated encoding,2024-02-01,100,40,142,601,25,Quiz
+44,69,Focused radical customer loyalty,2024-05-28,100,40,157,308,8,Final
+45,475,De-engineered content-based installation,2024-03-26,100,40,63,591,31,Quiz
+46,322,User-friendly foreground attitude,2024-12-07,100,40,160,143,99,Midterm
+47,48,Extended next generation capacity,2024-08-01,100,40,116,628,60,Final
+48,317,Open-source zero administration project,2025-01-24,100,40,85,957,76,Midterm
+49,85,Multi-layered real-time circuit,2024-07-18,100,40,162,62,93,Quiz
+50,231,Devolved interactive pricing structure,2024-10-07,100,40,86,92,21,Midterm
+51,129,Reduced zero-defect encryption,2024-08-10,100,40,96,811,19,Midterm
+52,396,Automated non-volatile adapter,2024-03-23,100,40,35,919,47,Midterm
+53,179,Sharable attitude-oriented infrastructure,2024-10-14,100,40,110,892,52,Final
+54,102,Profound bottom-line frame,2024-11-24,100,40,86,599,72,Final
+55,253,Realigned next generation project,2024-10-12,100,40,157,107,38,Quiz
+56,414,Distributed solution-oriented instruction set,2024-10-15,100,40,89,56,5,Quiz
+57,378,Cross-group hybrid toolset,2024-05-22,100,40,122,395,90,Midterm
+58,144,Devolved zero tolerance website,2024-12-30,100,40,74,254,3,Final
+59,452,Universal disintermediate infrastructure,2024-06-07,100,40,48,662,64,Quiz
+60,84,Pre-emptive value-added methodology,2024-08-21,100,40,117,466,55,Midterm
+61,9,Persevering optimizing product,2024-02-17,100,40,162,254,55,Final
+62,430,Multi-channeled bottom-line algorithm,2024-07-21,100,40,39,266,35,Final
+63,183,Open-architected leadingedge matrices,2024-07-31,100,40,38,215,62,Quiz
+64,415,Focused client-server ability,2024-05-18,100,40,127,489,58,Quiz
+65,149,Stand-alone multi-tasking matrix,2024-12-21,100,40,176,997,68,Final
+66,303,Re-contextualized secondary secured line,2025-01-11,100,40,132,518,56,Quiz
+67,69,Persistent demand-driven structure,2024-11-24,100,40,105,86,44,Quiz
+68,435,Persevering multi-tasking instruction set,2024-07-16,100,40,176,82,22,Final
+69,16,Monitored neutral pricing structure,2024-08-16,100,40,46,915,35,Quiz
+70,362,Universal didactic parallelism,2024-03-17,100,40,112,457,94,Midterm
+71,219,Managed uniform function,2024-02-24,100,40,109,531,23,Final
+72,48,Mandatory even-keeled leverage,2024-11-05,100,40,59,529,99,Final
+73,103,Multi-channeled incremental monitoring,2024-07-04,100,40,172,605,12,Midterm
+74,27,Sharable solution-oriented model,2024-07-21,100,40,53,438,29,Final
+75,195,Phased incremental model,2024-11-18,100,40,54,279,6,Quiz
+76,184,Balanced eco-centric open architecture,2024-09-23,100,40,123,948,86,Quiz
+77,25,Optional methodical groupware,2024-08-11,100,40,101,8,84,Quiz
+78,180,Customer-focused motivating installation,2024-06-30,100,40,145,679,53,Midterm
+79,180,Organic asymmetric contingency,2024-08-10,100,40,163,308,72,Final
+80,204,Phased tangible knowledge user,2024-08-19,100,40,97,762,20,Final
+81,236,Organized national contingency,2024-03-10,100,40,161,364,30,Quiz
+82,221,Universal eco-centric leverage,2024-02-14,100,40,137,881,63,Quiz
+83,284,Distributed client-server definition,2024-05-31,100,40,155,594,62,Final
+84,104,Monitored disintermediate implementation,2024-09-26,100,40,76,80,6,Final
+85,344,Profit-focused asymmetric policy,2024-12-09,100,40,111,488,62,Quiz
+86,139,Inverse even-keeled framework,2024-12-16,100,40,73,365,37,Midterm
+87,388,Visionary responsive open system,2024-03-12,100,40,84,224,78,Quiz
+88,137,Progressive intermediate superstructure,2024-06-28,100,40,72,664,67,Midterm
+89,238,Triple-buffered disintermediate analyzer,2024-10-20,100,40,153,449,9,Final
+90,101,Multi-layered asynchronous open system,2024-03-13,100,40,147,87,100,Final
+91,137,Realigned regional interface,2024-07-07,100,40,86,654,86,Final
+92,101,User-friendly eco-centric parallelism,2024-06-15,100,40,176,20,1,Final
+93,78,Enhanced fresh-thinking algorithm,2024-02-07,100,40,138,458,60,Midterm
+94,36,Team-oriented optimal secured line,2024-05-16,100,40,108,357,68,Midterm
+95,61,Innovative encompassing encoding,2024-12-01,100,40,105,61,98,Final
+96,363,Multi-tiered impactful customer loyalty,2024-09-09,100,40,85,654,69,Final
+97,173,Pre-emptive next generation middleware,2024-09-18,100,40,102,317,73,Midterm
+98,79,Future-proofed incremental function,2024-11-22,100,40,54,48,69,Quiz
+99,111,Adaptive didactic project,2024-03-25,100,40,78,360,83,Midterm
+100,11,Universal needs-based website,2024-10-27,100,40,106,860,50,Final
+101,383,Team-oriented secondary parallelism,2024-06-20,100,40,141,673,13,Midterm
+102,228,Customer-focused fault-tolerant software,2024-11-17,100,40,68,408,95,Final
+103,40,Visionary logistical archive,2024-05-23,100,40,75,219,49,Midterm
+104,316,Open-source background focus group,2024-04-06,100,40,111,833,45,Final
+105,372,Function-based bi-directional projection,2024-12-27,100,40,79,985,85,Midterm
+106,52,Future-proofed radical hierarchy,2024-10-20,100,40,92,412,78,Midterm
+107,396,Up-sized full-range circuit,2024-06-01,100,40,111,150,83,Quiz
+108,144,Fully-configurable executive analyzer,2024-09-29,100,40,104,456,19,Quiz
+109,353,Profit-focused next generation approach,2024-08-30,100,40,130,309,60,Final
+110,427,Polarized national extranet,2024-02-28,100,40,50,849,69,Final
+111,277,Universal zero administration focus group,2025-01-05,100,40,89,112,70,Midterm
+112,395,Vision-oriented static model,2024-05-14,100,40,171,445,28,Final
+113,356,Decentralized systemic policy,2024-05-14,100,40,175,787,60,Final
+114,163,Expanded bifurcated application,2024-11-25,100,40,118,812,88,Midterm
+115,74,Streamlined tertiary migration,2024-07-26,100,40,36,529,12,Final
+116,446,Stand-alone regional data-warehouse,2024-11-13,100,40,98,486,1,Midterm
+117,400,Polarized system-worthy orchestration,2024-09-22,100,40,165,61,53,Midterm
+118,251,Decentralized needs-based collaboration,2024-04-06,100,40,61,693,63,Midterm
+119,280,Front-line upward-trending archive,2024-03-29,100,40,96,893,18,Midterm
+120,256,Streamlined holistic core,2024-07-01,100,40,104,717,16,Midterm
+121,271,User-centric global parallelism,2024-04-22,100,40,170,991,80,Midterm
+122,10,Decentralized actuating adapter,2024-08-22,100,40,136,754,67,Final
+123,55,Extended stable function,2024-03-15,100,40,155,626,75,Quiz
+124,237,Triple-buffered exuding moderator,2024-11-24,100,40,177,223,2,Final
+125,465,De-engineered multi-tasking infrastructure,2024-10-27,100,40,57,713,61,Midterm
+126,271,Progressive intermediate matrix,2024-03-31,100,40,67,937,50,Quiz
+127,83,Monitored logistical encoding,2024-11-29,100,40,91,832,35,Midterm
+128,173,Secured value-added process improvement,2024-06-24,100,40,107,565,66,Final
+129,425,Seamless executive standardization,2024-08-19,100,40,172,741,50,Quiz
+130,297,Distributed holistic synergy,2024-10-04,100,40,54,726,57,Final
+131,494,Multi-layered explicit alliance,2024-09-04,100,40,134,836,62,Midterm
+132,391,Distributed context-sensitive throughput,2024-12-12,100,40,175,881,74,Midterm
+133,259,User-centric intangible conglomeration,2024-12-21,100,40,54,560,33,Midterm
+134,470,Profound multi-state paradigm,2024-11-13,100,40,60,501,97,Midterm
+135,295,Down-sized composite moderator,2024-04-07,100,40,108,668,75,Midterm
+136,39,Open-source hybrid implementation,2025-01-28,100,40,148,503,57,Midterm
+137,500,Polarized interactive ability,2024-07-30,100,40,61,652,46,Quiz
+138,483,Front-line asymmetric process improvement,2025-01-12,100,40,117,24,49,Midterm
+139,96,Reactive bottom-line framework,2024-11-07,100,40,151,918,35,Quiz
+140,319,Pre-emptive local policy,2025-01-06,100,40,33,15,91,Midterm
+141,170,User-centric intangible toolset,2024-04-23,100,40,119,407,78,Midterm
+142,470,Sharable bi-directional contingency,2024-06-03,100,40,159,513,25,Final
+143,371,Extended radical secured line,2024-03-03,100,40,42,579,90,Quiz
+144,103,Switchable secondary system engine,2024-05-30,100,40,104,352,21,Midterm
+145,278,Advanced clear-thinking help-desk,2024-07-26,100,40,54,272,48,Quiz
+146,44,Function-based leadingedge secured line,2024-06-07,100,40,137,690,7,Final
+147,307,Phased client-server functionalities,2024-08-03,100,40,75,6,8,Final
+148,346,Intuitive tertiary pricing structure,2024-06-06,100,40,59,735,24,Final
+149,409,Secured bifurcated protocol,2024-09-12,100,40,116,708,26,Midterm
+150,471,Monitored methodical data-warehouse,2024-05-21,100,40,90,31,20,Midterm
+151,274,Configurable intermediate focus group,2024-12-10,100,40,122,152,2,Midterm
+152,493,Proactive disintermediate encoding,2024-02-25,100,40,154,6,55,Final
+153,500,Fundamental systematic support,2025-01-25,100,40,61,217,65,Quiz
+154,36,Devolved 5thgeneration definition,2024-09-29,100,40,99,336,52,Midterm
+155,487,Programmable bifurcated hub,2024-04-02,100,40,119,503,78,Midterm
+156,459,Synergized zero tolerance utilization,2024-10-21,100,40,155,318,6,Quiz
+157,271,Customizable transitional task-force,2024-02-12,100,40,88,508,69,Final
+158,358,Profit-focused maximized website,2024-03-18,100,40,121,706,100,Quiz
+159,364,Customer-focused value-added knowledge user,2024-06-28,100,40,128,381,11,Final
+160,74,Triple-buffered attitude-oriented workforce,2024-10-29,100,40,167,979,49,Quiz
+161,239,Vision-oriented tangible function,2024-05-30,100,40,131,895,69,Quiz
+162,92,Exclusive didactic collaboration,2024-06-18,100,40,172,733,4,Final
+163,316,Customizable upward-trending analyzer,2024-08-17,100,40,138,24,6,Quiz
+164,442,Innovative discrete knowledge user,2024-03-04,100,40,47,833,100,Midterm
+165,431,Upgradable object-oriented instruction set,2024-03-22,100,40,120,314,46,Midterm
+166,279,Exclusive executive algorithm,2024-07-25,100,40,110,935,15,Midterm
+167,465,Synergistic bandwidth-monitored application,2025-01-15,100,40,150,230,56,Final
+168,58,Managed modular hierarchy,2024-11-29,100,40,39,900,65,Final
+169,378,Distributed user-facing projection,2024-10-07,100,40,68,334,68,Final
+170,324,Compatible modular strategy,2024-10-01,100,40,159,512,36,Quiz
+171,429,Devolved high-level toolset,2024-08-12,100,40,50,632,88,Quiz
+172,207,Team-oriented mission-critical initiative,2025-01-21,100,40,175,706,96,Quiz
+173,301,Stand-alone mission-critical help-desk,2024-07-10,100,40,51,205,44,Midterm
+174,75,Open-source multi-tasking adapter,2024-04-05,100,40,81,646,1,Midterm
+175,253,Re-contextualized clear-thinking model,2024-03-26,100,40,129,897,71,Midterm
+176,401,Multi-layered directional firmware,2024-02-20,100,40,106,544,31,Final
+177,431,Digitized dedicated parallelism,2024-11-21,100,40,49,895,70,Quiz
+178,428,Exclusive system-worthy data-warehouse,2024-12-09,100,40,130,588,40,Final
+179,90,Open-architected secondary adapter,2024-11-29,100,40,106,440,86,Final
+180,392,Phased modular paradigm,2024-07-25,100,40,62,352,17,Midterm
+181,106,Public-key cohesive framework,2024-08-02,100,40,138,207,93,Quiz
+182,348,Focused stable hardware,2025-01-02,100,40,40,474,31,Midterm
+183,307,Cross-platform fresh-thinking project,2024-11-25,100,40,65,633,39,Final
+184,268,Adaptive leadingedge hub,2024-12-02,100,40,109,624,4,Final
+185,391,Decentralized asymmetric hub,2024-07-10,100,40,42,415,74,Quiz
+186,289,Optimized coherent moratorium,2024-10-04,100,40,153,300,50,Midterm
+187,187,Grass-roots static help-desk,2024-10-13,100,40,52,387,66,Midterm
+188,43,Operative bandwidth-monitored ability,2024-07-14,100,40,69,92,1,Final
+189,149,Proactive background utilization,2024-05-07,100,40,109,112,27,Midterm
+190,146,Total heuristic intranet,2024-09-14,100,40,41,703,100,Quiz
+191,106,Persistent cohesive installation,2025-01-17,100,40,145,425,2,Final
+192,137,Virtual methodical hierarchy,2024-09-18,100,40,107,717,90,Final
+193,491,Multi-channeled user-facing conglomeration,2024-11-20,100,40,159,600,90,Quiz
+194,447,Assimilated tertiary throughput,2024-05-29,100,40,54,710,7,Quiz
+195,113,Centralized secondary monitoring,2024-05-22,100,40,123,893,38,Final
+196,281,Diverse high-level Internet solution,2024-04-30,100,40,161,924,26,Quiz
+197,175,Profit-focused hybrid superstructure,2025-01-22,100,40,145,452,2,Midterm
+198,121,Balanced bottom-line knowledgebase,2024-02-26,100,40,126,781,54,Midterm
+199,443,Digitized background knowledgebase,2024-12-23,100,40,174,87,46,Final
+200,137,Self-enabling encompassing superstructure,2024-08-28,100,40,162,774,6,Final
+201,163,Reduced 4thgeneration installation,2024-12-30,100,40,134,801,52,Final
+202,331,Ameliorated object-oriented encoding,2024-05-06,100,40,170,959,8,Final
+203,286,Automated executive hardware,2024-12-09,100,40,32,268,33,Final
+204,33,Expanded grid-enabled approach,2024-03-29,100,40,59,449,50,Midterm
+205,303,Assimilated real-time knowledgebase,2024-04-26,100,40,47,664,84,Final
+206,141,Compatible bi-directional middleware,2025-01-01,100,40,45,300,8,Quiz
+207,77,Switchable mobile task-force,2024-05-24,100,40,156,259,65,Quiz
+208,64,User-friendly 3rdgeneration encryption,2024-08-12,100,40,143,266,43,Quiz
+209,112,Intuitive radical budgetary management,2024-05-11,100,40,42,765,76,Midterm
+210,434,Synergized global hub,2024-10-07,100,40,140,858,89,Quiz
+211,201,Balanced scalable neural-net,2024-08-29,100,40,44,491,29,Midterm
+212,371,Configurable next generation knowledge user,2024-10-06,100,40,154,878,37,Final
+213,124,Stand-alone executive neural-net,2024-05-11,100,40,37,638,26,Quiz
+214,375,Focused client-server contingency,2024-12-18,100,40,31,312,25,Midterm
+215,345,Down-sized secondary encryption,2024-09-14,100,40,143,11,19,Final
+216,53,Up-sized reciprocal open architecture,2024-06-07,100,40,167,446,5,Final
+217,81,Secured zero administration capability,2025-01-10,100,40,93,626,84,Quiz
+218,441,Re-engineered regional info-mediaries,2025-01-23,100,40,83,844,84,Quiz
+219,265,Re-contextualized executive database,2024-05-16,100,40,144,282,79,Midterm
+220,339,Multi-tiered analyzing collaboration,2024-11-03,100,40,80,589,12,Final
+221,307,Customizable logistical product,2024-05-28,100,40,131,780,27,Final
+222,213,Cross-group directional artificial intelligence,2024-04-28,100,40,66,435,1,Final
+223,280,Upgradable logistical info-mediaries,2024-05-27,100,40,59,559,96,Midterm
+224,117,Profit-focused object-oriented core,2024-10-18,100,40,98,469,17,Final
+225,202,Versatile responsive pricing structure,2024-10-31,100,40,50,434,58,Final
+226,427,Advanced cohesive leverage,2024-08-29,100,40,38,405,22,Final
+227,333,Grass-roots 6thgeneration infrastructure,2024-06-21,100,40,161,677,99,Final
+228,221,Optional stable support,2024-02-28,100,40,174,248,100,Quiz
+229,403,Future-proofed zero administration data-warehouse,2024-12-06,100,40,33,851,32,Final
+230,182,Ergonomic grid-enabled circuit,2025-01-10,100,40,98,412,4,Final
+231,329,Configurable dynamic definition,2024-08-05,100,40,92,546,87,Midterm
+232,225,Enterprise-wide 3rdgeneration support,2024-11-03,100,40,51,628,86,Quiz
+233,245,Inverse heuristic workforce,2024-10-08,100,40,61,135,83,Final
+234,160,Customizable clear-thinking data-warehouse,2024-03-07,100,40,155,664,23,Midterm
+235,246,Sharable impactful product,2024-04-29,100,40,74,20,65,Quiz
+236,52,Synchronized cohesive contingency,2024-08-27,100,40,127,117,2,Quiz
+237,401,Cross-platform context-sensitive attitude,2024-12-17,100,40,72,9,81,Quiz
+238,496,Multi-tiered homogeneous initiative,2024-12-13,100,40,163,909,54,Midterm
+239,132,Focused discrete Local Area Network,2024-11-17,100,40,129,142,47,Quiz
+240,420,Expanded scalable project,2024-12-17,100,40,171,325,68,Quiz
+241,369,Optional asynchronous success,2024-07-07,100,40,163,497,66,Midterm
+242,181,User-centric optimizing secured line,2024-08-17,100,40,127,230,41,Quiz
+243,447,Switchable reciprocal time-frame,2024-08-28,100,40,65,561,23,Final
+244,179,Upgradable optimal success,2024-03-27,100,40,138,747,18,Quiz
+245,484,Exclusive maximized protocol,2024-09-07,100,40,102,893,43,Final
+246,180,Stand-alone web-enabled extranet,2024-09-05,100,40,60,572,34,Quiz
+247,87,Object-based multi-tasking collaboration,2024-09-18,100,40,120,476,73,Quiz
+248,161,Vision-oriented multi-state success,2024-12-17,100,40,56,276,52,Final
+249,131,Persevering secondary frame,2025-01-11,100,40,142,234,22,Final
+250,424,Decentralized analyzing database,2024-07-08,100,40,159,558,62,Final
+251,104,Universal asynchronous intranet,2024-10-17,100,40,179,368,90,Midterm
+252,26,Vision-oriented encompassing orchestration,2024-08-21,100,40,46,131,72,Midterm
+253,10,Sharable cohesive intranet,2024-05-06,100,40,114,432,19,Quiz
+254,231,Stand-alone client-server process improvement,2025-01-23,100,40,115,585,55,Midterm
+255,110,Object-based empowering toolset,2024-04-03,100,40,107,677,2,Final
+256,440,Object-based zero-defect superstructure,2024-07-22,100,40,170,150,82,Quiz
+257,322,Balanced explicit framework,2024-09-15,100,40,111,967,14,Midterm
+258,258,Profound transitional help-desk,2024-03-28,100,40,119,225,53,Midterm
+259,46,Sharable upward-trending standardization,2024-07-02,100,40,164,440,93,Midterm
+260,308,Phased systematic product,2024-04-16,100,40,72,902,32,Final
+261,174,Synchronized 24/7 model,2024-12-23,100,40,143,85,6,Quiz
+262,288,Managed solution-oriented task-force,2025-01-23,100,40,58,464,42,Final
+263,418,Fundamental 3rdgeneration flexibility,2024-11-27,100,40,82,615,55,Quiz
+264,217,Assimilated didactic strategy,2024-07-28,100,40,121,10,62,Midterm
+265,368,Open-architected leadingedge hardware,2024-05-10,100,40,112,652,60,Midterm
+266,119,Up-sized explicit throughput,2024-03-18,100,40,97,524,100,Midterm
+267,200,Cloned empowering projection,2024-11-13,100,40,118,477,50,Quiz
+268,29,Quality-focused object-oriented portal,2024-12-17,100,40,53,653,37,Midterm
+269,134,Distributed empowering pricing structure,2024-12-17,100,40,175,234,36,Quiz
+270,191,Realigned even-keeled core,2024-09-28,100,40,79,871,12,Quiz
+271,302,Configurable content-based encryption,2025-01-13,100,40,81,975,90,Final
+272,496,Face-to-face contextually-based concept,2024-03-14,100,40,117,959,60,Final
+273,418,Front-line attitude-oriented middleware,2024-08-10,100,40,41,149,68,Quiz
+274,201,Intuitive contextually-based archive,2025-01-01,100,40,144,362,55,Final
+275,237,Multi-layered dynamic intranet,2024-08-04,100,40,86,697,71,Midterm
+276,128,Diverse 5thgeneration instruction set,2024-04-07,100,40,49,928,31,Quiz
+277,35,Balanced tertiary knowledgebase,2024-02-21,100,40,165,796,54,Final
+278,73,Open-architected interactive task-force,2024-07-29,100,40,142,156,19,Midterm
+279,419,Fundamental mobile structure,2024-10-10,100,40,87,618,41,Midterm
+280,194,Exclusive composite pricing structure,2024-03-19,100,40,32,620,80,Final
+281,452,Customizable bottom-line knowledgebase,2024-09-17,100,40,121,562,38,Quiz
+282,357,Implemented neutral protocol,2024-05-04,100,40,104,272,2,Final
+283,430,Reactive homogeneous task-force,2024-02-18,100,40,100,171,99,Final
+284,2,Self-enabling stable budgetary management,2024-02-13,100,40,81,145,11,Quiz
+285,388,Enterprise-wide mobile flexibility,2025-01-11,100,40,70,68,8,Quiz
+286,163,Business-focused client-server strategy,2024-11-28,100,40,108,342,78,Midterm
+287,486,Advanced multi-tasking database,2024-07-13,100,40,73,953,90,Quiz
+288,241,User-centric analyzing strategy,2024-05-13,100,40,120,925,19,Final
+289,385,Configurable impactful workforce,2024-05-15,100,40,48,60,73,Quiz
+290,374,Configurable mission-critical workforce,2024-10-01,100,40,72,956,55,Final
+291,86,Team-oriented holistic matrix,2025-01-12,100,40,114,529,36,Final
+292,66,Exclusive web-enabled open system,2024-05-24,100,40,66,347,31,Midterm
+293,161,Enterprise-wide eco-centric matrix,2024-08-12,100,40,45,419,74,Quiz
+294,79,Pre-emptive disintermediate moderator,2024-09-16,100,40,98,842,43,Final
+295,14,Networked exuding workforce,2024-02-14,100,40,44,858,78,Final
+296,50,Streamlined incremental matrix,2024-09-17,100,40,46,551,61,Final
+297,98,Self-enabling directional time-frame,2024-12-28,100,40,102,674,92,Quiz
+298,176,Visionary tertiary synergy,2024-12-20,100,40,33,823,69,Final
+299,310,Mandatory bifurcated migration,2024-04-14,100,40,171,785,53,Midterm
+300,409,Optional tertiary customer loyalty,2024-11-29,100,40,90,736,16,Final
+301,159,De-engineered systematic infrastructure,2024-03-30,100,40,144,667,87,Midterm
+302,104,Reduced composite emulation,2024-02-07,100,40,137,670,82,Midterm
+303,18,Integrated stable process improvement,2024-03-18,100,40,60,981,28,Final
+304,1,Universal 3rdgeneration flexibility,2024-07-15,100,40,60,236,22,Quiz
+305,16,Object-based composite access,2024-06-11,100,40,96,564,69,Midterm
+306,180,Vision-oriented bi-directional contingency,2024-05-21,100,40,116,165,68,Final
+307,50,Mandatory modular projection,2024-06-11,100,40,54,593,16,Final
+308,185,Configurable heuristic core,2024-07-31,100,40,34,542,10,Final
+309,206,Fundamental mission-critical frame,2025-01-19,100,40,128,422,97,Midterm
+310,191,Programmable 24/7 initiative,2024-05-15,100,40,123,450,64,Quiz
+311,150,Customer-focused object-oriented definition,2024-04-15,100,40,40,964,86,Quiz
+312,289,Enhanced clear-thinking Graphical User Interface,2024-03-22,100,40,55,406,79,Midterm
+313,463,Enhanced user-facing budgetary management,2024-03-24,100,40,161,357,53,Quiz
+314,264,Synchronized optimal knowledgebase,2024-02-22,100,40,89,689,87,Midterm
+315,171,Phased composite array,2024-04-15,100,40,177,649,74,Midterm
+316,76,Expanded tangible task-force,2024-06-12,100,40,54,917,43,Final
+317,354,Sharable dedicated throughput,2025-01-25,100,40,151,646,78,Quiz
+318,220,Adaptive context-sensitive Local Area Network,2024-10-29,100,40,56,645,49,Midterm
+319,90,Business-focused zero administration structure,2024-09-16,100,40,153,466,41,Quiz
+320,143,Innovative didactic hierarchy,2024-07-26,100,40,154,412,13,Midterm
+321,16,Object-based stable customer loyalty,2024-05-25,100,40,157,322,33,Quiz
+322,212,Streamlined directional knowledgebase,2024-10-19,100,40,166,763,34,Midterm
+323,129,User-friendly encompassing adapter,2024-06-09,100,40,98,303,83,Final
+324,42,Focused exuding migration,2024-06-18,100,40,95,274,13,Quiz
+325,383,Function-based zero-defect support,2024-08-27,100,40,30,995,72,Quiz
+326,263,Inverse heuristic focus group,2024-06-27,100,40,46,751,44,Midterm
+327,250,Business-focused 24/7 contingency,2024-05-27,100,40,43,689,10,Quiz
+328,95,Open-source 5thgeneration algorithm,2024-06-12,100,40,155,547,82,Final
+329,404,Expanded bi-directional orchestration,2024-08-05,100,40,168,524,55,Quiz
+330,436,Organic mobile customer loyalty,2024-07-04,100,40,38,848,43,Midterm
+331,333,Mandatory even-keeled hub,2024-03-14,100,40,39,142,75,Final
+332,499,Versatile secondary complexity,2024-11-15,100,40,149,760,53,Midterm
+333,99,Cross-group coherent website,2024-03-24,100,40,96,12,82,Quiz
+334,114,Optional 4thgeneration neural-net,2024-04-13,100,40,167,555,68,Final
+335,114,Organized cohesive instruction set,2025-01-11,100,40,76,320,29,Midterm
+336,17,Adaptive bi-directional approach,2024-04-06,100,40,50,704,1,Midterm
+337,50,Right-sized tangible benchmark,2024-06-28,100,40,64,347,32,Quiz
+338,484,Devolved next generation implementation,2024-11-28,100,40,119,924,13,Final
+339,303,Cross-group methodical algorithm,2024-11-29,100,40,139,719,60,Final
+340,104,Intuitive value-added implementation,2024-07-22,100,40,171,391,15,Quiz
+341,1,Cross-group client-driven function,2025-01-29,100,40,143,56,26,Midterm
+342,117,Cross-group well-modulated contingency,2024-10-21,100,40,148,551,80,Final
+343,49,Proactive content-based info-mediaries,2025-01-08,100,40,143,117,41,Midterm
+344,114,Reverse-engineered bottom-line flexibility,2024-12-28,100,40,121,912,73,Quiz
+345,224,Persistent 5thgeneration productivity,2024-07-16,100,40,101,478,38,Final
+346,6,Customer-focused real-time Graphic Interface,2025-01-30,100,40,125,429,100,Quiz
+347,10,Ameliorated motivating process improvement,2024-10-10,100,40,115,998,86,Quiz
+348,321,Progressive zero-defect toolset,2024-07-17,100,40,109,121,94,Quiz
+349,3,Enterprise-wide non-volatile policy,2025-01-05,100,40,63,956,94,Final
+350,464,Switchable zero administration Local Area Network,2024-04-02,100,40,86,671,63,Final
+351,5,Balanced 24/7 open architecture,2024-04-25,100,40,136,946,3,Final
+352,326,Synergistic secondary encryption,2024-06-11,100,40,90,617,33,Quiz
+353,485,Phased user-facing productivity,2024-02-11,100,40,139,75,75,Quiz
+354,432,Stand-alone national collaboration,2024-06-30,100,40,48,119,6,Final
+355,397,Networked bottom-line monitoring,2024-04-20,100,40,171,203,71,Quiz
+356,354,Self-enabling uniform Graphic Interface,2024-11-08,100,40,82,411,3,Quiz
+357,262,Optional object-oriented pricing structure,2024-07-13,100,40,103,685,55,Midterm
+358,385,Configurable contextually-based contingency,2024-07-20,100,40,165,672,19,Final
+359,440,Self-enabling national initiative,2025-01-06,100,40,153,176,9,Final
+360,71,Grass-roots context-sensitive collaboration,2024-09-24,100,40,75,702,97,Midterm
+361,416,Mandatory analyzing projection,2024-10-13,100,40,56,61,71,Final
+362,49,Vision-oriented heuristic synergy,2024-08-21,100,40,100,575,22,Quiz
+363,107,Realigned reciprocal Graphical User Interface,2024-09-18,100,40,88,722,25,Quiz
+364,416,User-centric even-keeled productivity,2024-08-21,100,40,104,268,19,Midterm
+365,76,Organized non-volatile alliance,2024-03-10,100,40,154,945,34,Final
+366,326,Horizontal empowering emulation,2024-12-24,100,40,154,917,28,Quiz
+367,285,Robust mission-critical customer loyalty,2024-06-26,100,40,179,934,46,Midterm
+368,436,Total motivating methodology,2024-02-09,100,40,67,759,12,Final
+369,128,Profound 4thgeneration framework,2024-03-14,100,40,132,968,55,Quiz
+370,477,Multi-layered multi-state strategy,2024-08-06,100,40,36,588,93,Midterm
+371,25,Multi-tiered national superstructure,2024-07-31,100,40,141,807,41,Quiz
+372,224,Multi-tiered multimedia methodology,2024-04-07,100,40,32,645,20,Quiz
+373,118,Expanded 24/7 emulation,2024-05-17,100,40,53,112,79,Midterm
+374,314,Grass-roots tangible analyzer,2024-05-17,100,40,177,817,46,Quiz
+375,247,Networked leadingedge pricing structure,2024-01-31,100,40,91,519,61,Quiz
+376,323,Organic incremental info-mediaries,2024-04-21,100,40,128,202,46,Final
+377,196,Public-key 4thgeneration capability,2024-03-01,100,40,90,588,69,Midterm
+378,213,Face-to-face transitional leverage,2024-08-09,100,40,41,561,66,Midterm
+379,77,Versatile heuristic analyzer,2024-04-04,100,40,154,800,80,Quiz
+380,292,Multi-tiered zero administration productivity,2024-06-12,100,40,106,962,32,Midterm
+381,148,Re-engineered uniform projection,2024-02-15,100,40,35,221,100,Midterm
+382,161,User-friendly fault-tolerant model,2024-11-25,100,40,165,140,18,Final
+383,404,Up-sized bi-directional help-desk,2024-12-07,100,40,74,784,72,Midterm
+384,270,Devolved context-sensitive framework,2024-02-25,100,40,74,580,74,Final
+385,408,Reactive mobile workforce,2024-06-29,100,40,93,786,91,Midterm
+386,468,Enterprise-wide upward-trending Local Area Network,2024-09-02,100,40,31,33,27,Quiz
+387,42,Cloned value-added function,2024-04-18,100,40,73,762,32,Quiz
+388,253,Grass-roots mission-critical core,2024-10-11,100,40,45,144,62,Final
+389,404,Grass-roots analyzing contingency,2024-03-26,100,40,49,438,54,Quiz
+390,171,Right-sized grid-enabled concept,2024-09-19,100,40,84,667,44,Midterm
+391,63,Optional 4thgeneration emulation,2024-11-10,100,40,44,943,63,Quiz
+392,161,Multi-layered didactic Graphical User Interface,2024-06-03,100,40,98,707,80,Final
+393,78,Switchable neutral firmware,2025-01-20,100,40,55,71,84,Midterm
+394,295,Compatible optimal website,2024-12-25,100,40,173,650,4,Final
+395,254,Upgradable intangible moratorium,2024-07-02,100,40,151,743,9,Quiz
+396,402,Optional 4thgeneration analyzer,2024-09-10,100,40,98,46,67,Midterm
+397,496,Upgradable scalable monitoring,2024-06-15,100,40,155,464,10,Midterm
+398,294,Total coherent help-desk,2024-08-09,100,40,114,908,58,Final
+399,280,Organized intangible policy,2024-07-15,100,40,144,98,79,Final
+400,125,Universal executive initiative,2024-03-28,100,40,68,767,13,Final
+401,164,Diverse responsive model,2024-10-19,100,40,103,479,23,Midterm
+402,442,Realigned object-oriented benchmark,2025-01-13,100,40,142,205,79,Midterm
+403,283,Future-proofed interactive monitoring,2024-12-04,100,40,107,831,66,Quiz
+404,286,Robust bottom-line knowledgebase,2024-02-17,100,40,88,748,4,Midterm
+405,228,Self-enabling stable attitude,2024-03-19,100,40,147,431,82,Midterm
+406,497,Customizable modular website,2024-05-20,100,40,151,934,35,Quiz
+407,342,Stand-alone 6thgeneration website,2024-09-16,100,40,32,618,53,Midterm
+408,130,Advanced next generation protocol,2024-12-07,100,40,150,111,55,Midterm
+409,456,Profit-focused object-oriented service-desk,2024-02-24,100,40,50,413,60,Midterm
+410,95,Ameliorated radical structure,2024-12-20,100,40,139,170,82,Final
+411,424,Re-engineered 24hour benchmark,2024-02-13,100,40,98,551,60,Quiz
+412,64,Adaptive client-driven implementation,2024-08-07,100,40,127,530,83,Final
+413,124,Configurable transitional groupware,2024-10-30,100,40,95,856,51,Final
+414,33,Up-sized zero tolerance focus group,2024-08-20,100,40,105,910,5,Midterm
+415,144,Extended bifurcated challenge,2024-07-21,100,40,65,815,69,Midterm
+416,189,Cross-platform motivating knowledge user,2024-10-05,100,40,155,623,93,Quiz
+417,308,Fundamental actuating monitoring,2024-02-25,100,40,46,440,14,Midterm
+418,213,Virtual solution-oriented attitude,2024-02-23,100,40,135,977,35,Midterm
+419,430,Diverse directional firmware,2024-03-07,100,40,97,22,92,Midterm
+420,121,Cloned even-keeled framework,2024-12-28,100,40,162,298,28,Final
+421,49,Progressive exuding budgetary management,2024-10-16,100,40,149,801,51,Midterm
+422,460,Multi-layered well-modulated algorithm,2024-02-21,100,40,128,586,41,Final
+423,295,Right-sized coherent contingency,2024-02-05,100,40,47,401,100,Midterm
+424,32,Open-source scalable website,2024-11-09,100,40,84,336,4,Midterm
+425,295,Reactive optimizing budgetary management,2024-03-17,100,40,119,104,77,Midterm
+426,197,User-friendly well-modulated installation,2024-07-29,100,40,70,814,62,Final
+427,299,User-centric radical conglomeration,2024-07-29,100,40,131,502,78,Quiz
+428,120,Horizontal incremental initiative,2024-02-16,100,40,150,351,24,Midterm
+429,330,Team-oriented attitude-oriented approach,2024-07-09,100,40,176,984,49,Quiz
+430,137,Fully-configurable leadingedge artificial intelligence,2024-08-02,100,40,161,774,31,Quiz
+431,418,Advanced web-enabled info-mediaries,2024-02-16,100,40,124,773,31,Quiz
+432,355,Compatible holistic circuit,2024-10-19,100,40,128,705,19,Final
+433,333,Exclusive cohesive adapter,2024-05-31,100,40,77,922,19,Midterm
+434,3,Mandatory stable infrastructure,2024-11-03,100,40,129,464,51,Quiz
+435,225,Decentralized next generation function,2024-06-05,100,40,37,594,47,Final
+436,472,Grass-roots empowering orchestration,2024-11-21,100,40,74,779,64,Final
+437,480,Grass-roots optimal architecture,2024-11-21,100,40,165,22,70,Final
+438,465,Front-line responsive contingency,2024-12-12,100,40,146,501,95,Final
+439,126,Innovative tangible help-desk,2024-07-16,100,40,56,470,95,Final
+440,112,Front-line real-time benchmark,2024-07-23,100,40,96,643,2,Final
+441,82,Implemented uniform core,2024-07-09,100,40,102,819,34,Midterm
+442,436,Monitored analyzing standardization,2024-08-17,100,40,103,104,10,Midterm
+443,2,Assimilated intermediate paradigm,2024-07-07,100,40,143,383,42,Quiz
+444,489,Fundamental neutral attitude,2024-06-08,100,40,174,196,1,Midterm
+445,59,Fundamental bottom-line task-force,2024-04-24,100,40,78,650,18,Final
+446,274,Persistent logistical secured line,2024-04-01,100,40,135,442,1,Midterm
+447,358,Optimized interactive core,2024-05-23,100,40,135,178,28,Quiz
+448,297,Streamlined directional policy,2024-10-02,100,40,96,860,31,Final
+449,147,Expanded needs-based forecast,2024-04-03,100,40,79,587,72,Midterm
+450,255,Self-enabling user-facing artificial intelligence,2024-04-16,100,40,119,587,61,Quiz
+451,394,Seamless contextually-based capacity,2024-12-08,100,40,78,387,28,Final
+452,99,Intuitive dedicated conglomeration,2024-10-05,100,40,82,585,58,Quiz
+453,227,Pre-emptive local array,2024-05-03,100,40,44,771,92,Midterm
+454,276,Expanded content-based model,2024-03-06,100,40,153,583,12,Midterm
+455,87,Robust optimal utilization,2024-08-19,100,40,108,71,73,Final
+456,145,Centralized even-keeled project,2024-11-03,100,40,55,795,9,Midterm
+457,164,Vision-oriented didactic portal,2024-08-29,100,40,69,605,64,Final
+458,208,Multi-channeled eco-centric superstructure,2024-03-09,100,40,147,993,40,Quiz
+459,364,Integrated multi-tasking circuit,2024-08-21,100,40,86,873,88,Final
+460,296,Customizable uniform task-force,2024-09-09,100,40,94,623,29,Final
+461,63,Public-key holistic moratorium,2024-06-05,100,40,138,403,85,Midterm
+462,60,Multi-tiered non-volatile open system,2024-03-31,100,40,178,971,93,Quiz
+463,352,Integrated didactic protocol,2024-04-27,100,40,170,494,7,Final
+464,261,Enhanced optimizing definition,2024-09-19,100,40,92,21,41,Quiz
+465,409,Organized intermediate extranet,2024-04-22,100,40,134,577,68,Final
+466,33,Self-enabling real-time archive,2024-11-01,100,40,109,537,28,Quiz
+467,25,Profit-focused actuating conglomeration,2024-11-19,100,40,119,249,84,Final
+468,59,Public-key object-oriented help-desk,2024-09-26,100,40,62,354,63,Midterm
+469,293,Up-sized cohesive matrices,2024-04-26,100,40,121,523,45,Final
+470,349,Re-engineered actuating productivity,2024-02-05,100,40,148,625,85,Final
+471,106,Networked needs-based emulation,2024-11-21,100,40,41,524,55,Midterm
+472,219,Re-engineered well-modulated hardware,2024-09-26,100,40,163,913,22,Midterm
+473,152,Re-contextualized 6thgeneration capability,2024-03-28,100,40,149,42,13,Midterm
+474,484,Automated foreground emulation,2024-10-03,100,40,133,994,13,Final
+475,411,Virtual solution-oriented infrastructure,2024-06-27,100,40,133,228,76,Final
+476,215,Automated intermediate core,2024-06-10,100,40,115,584,67,Quiz
+477,147,Open-architected optimizing moratorium,2024-12-23,100,40,82,56,29,Quiz
+478,475,Seamless interactive algorithm,2024-02-18,100,40,168,729,65,Final
+479,313,Innovative intangible Internet solution,2024-09-03,100,40,47,733,78,Final
+480,453,Profound optimal application,2024-04-29,100,40,66,806,6,Quiz
+481,287,Stand-alone user-facing hardware,2024-09-16,100,40,84,490,11,Quiz
+482,412,Business-focused bifurcated attitude,2024-08-17,100,40,90,378,81,Midterm
+483,454,Automated tangible conglomeration,2024-04-22,100,40,38,649,81,Midterm
+484,72,Monitored transitional task-force,2024-12-30,100,40,151,356,91,Final
+485,280,Organized actuating synergy,2024-10-24,100,40,52,887,54,Midterm
+486,405,Public-key radical collaboration,2024-12-31,100,40,125,356,81,Quiz
+487,272,Optimized interactive middleware,2024-08-31,100,40,163,958,67,Final
+488,232,Re-contextualized radical encryption,2024-05-31,100,40,135,308,68,Final
+489,124,Total bi-directional attitude,2024-07-14,100,40,154,681,86,Quiz
+490,361,Optional client-server algorithm,2024-06-19,100,40,137,610,92,Final
+491,324,Multi-channeled bi-directional capacity,2024-05-18,100,40,164,565,27,Final
+492,101,Optimized discrete algorithm,2024-07-18,100,40,32,102,64,Quiz
+493,261,De-engineered mobile solution,2024-10-08,100,40,48,618,67,Midterm
+494,204,Adaptive intangible software,2024-04-14,100,40,106,961,55,Quiz
+495,98,Balanced next generation standardization,2024-08-07,100,40,103,360,32,Midterm
+496,50,Extended client-driven product,2024-08-07,100,40,57,126,24,Midterm
+497,427,Integrated modular portal,2025-01-01,100,40,131,690,40,Quiz
+498,174,Reduced responsive workforce,2024-03-16,100,40,118,232,93,Quiz
+499,117,Advanced well-modulated benchmark,2024-09-05,100,40,40,719,49,Quiz
+500,471,Up-sized explicit portal,2024-12-22,100,40,164,767,13,Final
+501,438,Business-focused systematic focus group,2024-08-02,100,40,177,778,68,Midterm
+502,253,Ameliorated zero tolerance hierarchy,2024-07-03,100,40,145,586,63,Final
+503,384,Multi-tiered fresh-thinking throughput,2025-01-24,100,40,122,780,36,Quiz
+504,176,Right-sized logistical benchmark,2024-04-07,100,40,161,721,2,Final
+505,321,Persistent scalable standardization,2024-02-14,100,40,115,169,44,Final
+506,9,Future-proofed intermediate hierarchy,2024-05-13,100,40,71,561,53,Final
+507,139,Implemented client-driven open architecture,2024-07-30,100,40,140,446,17,Quiz
+508,466,Enterprise-wide bandwidth-monitored productivity,2024-02-14,100,40,175,82,6,Quiz
+509,435,Configurable asymmetric synergy,2024-09-30,100,40,113,199,12,Midterm
+510,190,Monitored actuating solution,2024-10-19,100,40,38,147,89,Midterm
+511,407,Decentralized bottom-line portal,2024-08-20,100,40,122,872,64,Final
+512,238,User-centric fault-tolerant open system,2024-07-25,100,40,41,488,6,Final
+513,154,Re-engineered foreground Internet solution,2025-01-16,100,40,125,11,44,Final
+514,120,Synergistic impactful toolset,2025-01-15,100,40,66,19,87,Quiz
+515,258,Optional maximized archive,2024-11-28,100,40,47,783,33,Midterm
+516,125,Customizable intangible alliance,2024-12-27,100,40,173,907,35,Midterm
+517,447,Function-based 5thgeneration encryption,2024-05-12,100,40,128,245,87,Quiz
+518,407,Fully-configurable intangible algorithm,2024-04-06,100,40,103,740,20,Midterm
+519,68,Progressive tangible time-frame,2024-03-10,100,40,87,633,78,Midterm
+520,61,Distributed multi-tasking concept,2024-11-23,100,40,78,684,14,Quiz
+521,139,Automated upward-trending task-force,2024-10-24,100,40,86,594,7,Quiz
+522,112,Reactive composite productivity,2024-10-17,100,40,176,397,9,Quiz
+523,119,Phased regional intranet,2025-01-24,100,40,74,283,25,Quiz
+524,118,Triple-buffered heuristic portal,2024-10-07,100,40,51,488,13,Final
+525,433,Reverse-engineered interactive access,2024-08-20,100,40,64,271,34,Midterm
+526,233,Re-contextualized explicit budgetary management,2024-11-24,100,40,145,568,26,Quiz
+527,390,Optional well-modulated alliance,2024-12-16,100,40,152,458,13,Midterm
+528,37,Organized explicit hierarchy,2024-10-08,100,40,96,357,18,Midterm
+529,451,Mandatory web-enabled focus group,2024-12-21,100,40,55,328,87,Final
+530,491,Object-based explicit emulation,2024-05-24,100,40,83,798,66,Quiz
+531,300,Customizable non-volatile encoding,2024-04-06,100,40,58,542,47,Final
+532,202,Optional dedicated definition,2024-10-17,100,40,100,160,57,Midterm
+533,158,Operative executive frame,2025-01-13,100,40,172,345,65,Midterm
+534,420,Horizontal secondary strategy,2024-06-25,100,40,140,501,79,Midterm
+535,207,Virtual mobile structure,2025-01-08,100,40,175,913,6,Final
+536,462,Progressive multimedia pricing structure,2024-03-02,100,40,111,504,16,Final
+537,179,Seamless reciprocal moderator,2024-05-22,100,40,63,147,54,Final
+538,156,Compatible hybrid artificial intelligence,2025-01-01,100,40,172,360,44,Quiz
+539,335,Proactive background infrastructure,2024-08-02,100,40,177,806,4,Midterm
+540,477,Expanded coherent productivity,2024-04-24,100,40,52,92,97,Final
+541,487,Implemented holistic function,2024-09-29,100,40,44,799,92,Final
+542,478,Organized upward-trending alliance,2024-02-07,100,40,124,782,81,Midterm
+543,26,Business-focused static functionalities,2024-02-22,100,40,147,985,75,Final
+544,329,Advanced holistic concept,2024-09-04,100,40,86,978,7,Midterm
+545,361,Customizable dynamic firmware,2024-09-28,100,40,161,718,64,Final
+546,488,Persistent interactive database,2024-11-14,100,40,104,502,90,Midterm
+547,195,Seamless well-modulated orchestration,2024-10-14,100,40,126,609,56,Final
+548,487,Reduced asynchronous algorithm,2024-05-24,100,40,170,41,52,Midterm
+549,497,Seamless client-server matrices,2024-10-11,100,40,166,816,30,Final
+550,368,Stand-alone fault-tolerant orchestration,2024-03-26,100,40,45,452,64,Final
+551,355,Decentralized impactful task-force,2024-05-14,100,40,65,44,99,Quiz
+552,467,Front-line 6thgeneration Internet solution,2024-10-02,100,40,121,961,30,Quiz
+553,329,Synergized empowering middleware,2024-12-12,100,40,65,142,25,Quiz
+554,280,Total executive customer loyalty,2024-02-27,100,40,99,53,19,Final
+555,180,Polarized static access,2024-11-27,100,40,111,414,83,Final
+556,76,Expanded full-range array,2024-11-07,100,40,50,338,29,Midterm
+557,362,Multi-tiered optimizing groupware,2024-07-03,100,40,98,591,94,Quiz
+558,207,Cross-platform 24hour attitude,2025-01-28,100,40,127,932,4,Quiz
+559,446,Devolved asynchronous open architecture,2024-06-05,100,40,53,966,7,Midterm
+560,335,Organized incremental capacity,2024-12-12,100,40,126,731,33,Midterm
+561,74,Horizontal systemic benchmark,2024-08-06,100,40,179,810,63,Midterm
+562,355,Integrated exuding structure,2024-02-11,100,40,133,845,77,Quiz
+563,226,Reactive national adapter,2024-06-18,100,40,134,234,65,Final
+564,349,Face-to-face dynamic open architecture,2024-04-03,100,40,165,527,83,Midterm
+565,313,Enhanced directional matrices,2024-07-12,100,40,34,95,52,Final
+566,291,Monitored web-enabled model,2025-01-03,100,40,139,244,82,Midterm
+567,332,Profit-focused object-oriented infrastructure,2024-07-15,100,40,80,792,79,Final
+568,483,Re-contextualized dedicated array,2024-02-10,100,40,40,390,11,Final
+569,388,Open-source stable pricing structure,2024-12-01,100,40,165,589,79,Midterm
+570,492,Progressive reciprocal forecast,2024-03-08,100,40,99,983,98,Quiz
+571,331,De-engineered 24/7 framework,2024-02-19,100,40,35,705,91,Quiz
+572,25,Compatible static middleware,2024-04-04,100,40,168,68,36,Quiz
+573,288,Compatible multimedia knowledge user,2024-06-04,100,40,58,258,99,Midterm
+574,162,Polarized empowering structure,2024-04-02,100,40,114,742,17,Quiz
+575,258,Advanced executive success,2024-07-03,100,40,139,337,57,Midterm
+576,498,Progressive mobile array,2024-10-27,100,40,88,973,11,Midterm
+577,193,Multi-lateral bandwidth-monitored projection,2024-11-21,100,40,149,931,88,Final
+578,99,Expanded intangible knowledgebase,2025-01-22,100,40,141,949,85,Quiz
+579,372,Sharable asymmetric hardware,2024-07-22,100,40,162,34,52,Midterm
+580,446,Decentralized multimedia hierarchy,2024-07-24,100,40,50,553,75,Midterm
+581,247,Total dedicated open architecture,2024-06-26,100,40,156,786,16,Midterm
+582,317,Profit-focused bottom-line challenge,2024-06-03,100,40,67,54,27,Final
+583,265,Open-architected national hardware,2024-04-24,100,40,164,580,87,Final
+584,92,Future-proofed next generation protocol,2024-06-23,100,40,87,694,81,Midterm
+585,218,Organized 4thgeneration Local Area Network,2024-07-27,100,40,30,254,22,Final
+586,395,Reverse-engineered zero administration interface,2025-01-09,100,40,172,553,12,Midterm
+587,486,Automated human-resource orchestration,2025-01-15,100,40,83,162,9,Quiz
+588,396,Future-proofed 4thgeneration hierarchy,2024-10-06,100,40,83,382,41,Quiz
+589,209,Grass-roots didactic ability,2024-07-05,100,40,118,909,90,Final
+590,432,Quality-focused composite frame,2024-07-22,100,40,31,25,52,Quiz
+591,286,Cross-group multimedia structure,2024-03-01,100,40,151,41,92,Final
+592,458,Visionary mobile website,2024-12-30,100,40,141,680,42,Midterm
+593,304,De-engineered secondary approach,2025-01-07,100,40,82,355,6,Quiz
+594,266,Pre-emptive homogeneous challenge,2024-05-31,100,40,177,407,45,Midterm
+595,22,Seamless composite data-warehouse,2024-04-14,100,40,30,769,58,Midterm
+596,210,Versatile cohesive algorithm,2025-01-28,100,40,129,859,5,Final
+597,56,Organic methodical database,2024-03-23,100,40,75,346,54,Quiz
+598,156,Assimilated demand-driven product,2025-01-13,100,40,66,143,83,Quiz
+599,374,Decentralized homogeneous help-desk,2024-02-23,100,40,174,188,26,Quiz
+600,12,Reduced executive complexity,2024-04-15,100,40,132,140,16,Final
+601,299,Multi-tiered transitional structure,2024-08-02,100,40,129,80,28,Quiz
+602,108,Networked optimizing process improvement,2024-02-03,100,40,36,133,40,Midterm
+603,378,Persistent scalable model,2024-07-01,100,40,94,140,88,Midterm
+604,197,Mandatory bandwidth-monitored strategy,2025-01-08,100,40,147,950,92,Quiz
+605,350,Down-sized fresh-thinking alliance,2024-10-28,100,40,171,606,2,Final
+606,494,Automated cohesive open system,2024-05-19,100,40,95,584,78,Quiz
+607,218,Organic even-keeled application,2024-12-13,100,40,115,497,86,Quiz
+608,41,Optional zero tolerance productivity,2024-03-08,100,40,47,471,83,Final
+609,271,Open-source explicit flexibility,2024-08-31,100,40,74,779,1,Quiz
+610,12,Universal didactic Internet solution,2024-06-29,100,40,90,711,83,Midterm
+611,263,Reverse-engineered real-time emulation,2024-11-27,100,40,176,335,57,Quiz
+612,226,Multi-lateral analyzing adapter,2024-11-28,100,40,173,250,55,Final
+613,359,Visionary bottom-line encryption,2024-02-28,100,40,170,837,32,Final
+614,499,Right-sized object-oriented policy,2024-05-08,100,40,152,49,35,Quiz
+615,473,Reduced foreground alliance,2024-08-13,100,40,79,579,82,Midterm
+616,474,Sharable executive knowledgebase,2024-05-08,100,40,148,834,100,Quiz
+617,309,Organic responsive approach,2024-12-05,100,40,44,59,51,Midterm
+618,155,Intuitive client-server infrastructure,2024-09-12,100,40,52,510,96,Final
+619,259,Robust zero administration knowledge user,2025-01-20,100,40,161,730,24,Midterm
+620,336,Front-line analyzing encryption,2024-06-24,100,40,36,117,10,Quiz
+621,184,Team-oriented asynchronous conglomeration,2025-01-30,100,40,165,1000,77,Quiz
+622,89,Reduced system-worthy projection,2024-04-12,100,40,130,299,22,Midterm
+623,31,Balanced multi-tasking function,2024-09-05,100,40,127,473,85,Midterm
+624,108,Multi-tiered object-oriented database,2024-04-03,100,40,178,644,15,Quiz
+625,78,Horizontal asynchronous access,2024-03-10,100,40,68,510,40,Final
+626,443,Public-key fault-tolerant project,2024-04-05,100,40,144,314,79,Final
+627,218,Customer-focused client-driven hub,2024-10-18,100,40,87,90,89,Midterm
+628,270,Customizable coherent archive,2024-06-22,100,40,114,609,65,Quiz
+629,426,Enhanced motivating firmware,2024-04-22,100,40,95,361,44,Final
+630,96,Seamless global protocol,2024-08-19,100,40,122,748,34,Midterm
+631,271,Down-sized didactic system engine,2024-09-25,100,40,164,724,68,Final
+632,447,Virtual optimizing ability,2024-05-01,100,40,127,540,21,Quiz
+633,137,Cross-group empowering pricing structure,2024-05-09,100,40,176,783,97,Quiz
+634,107,Cross-platform high-level conglomeration,2024-03-03,100,40,127,400,5,Quiz
+635,115,Ergonomic multi-tasking customer loyalty,2024-06-27,100,40,95,973,69,Final
+636,318,Switchable 3rdgeneration focus group,2024-08-04,100,40,114,391,93,Midterm
+637,446,Upgradable radical application,2024-06-29,100,40,79,964,89,Final
+638,94,Implemented transitional collaboration,2024-07-01,100,40,109,841,33,Quiz
+639,115,Ergonomic composite info-mediaries,2024-04-05,100,40,42,33,85,Quiz
+640,66,Ergonomic regional archive,2024-12-01,100,40,123,39,64,Midterm
+641,394,Programmable modular artificial intelligence,2025-01-08,100,40,68,307,92,Midterm
+642,122,Triple-buffered optimal knowledge user,2024-02-15,100,40,30,446,58,Midterm
+643,81,Managed systemic capacity,2024-07-10,100,40,125,4,50,Final
+644,421,Synergistic context-sensitive benchmark,2024-10-17,100,40,154,82,52,Final
+645,104,Open-architected maximized neural-net,2024-08-05,100,40,124,122,32,Quiz
+646,247,Up-sized global time-frame,2024-08-18,100,40,54,701,67,Quiz
+647,178,Persevering homogeneous instruction set,2024-09-27,100,40,64,510,66,Midterm
+648,217,Virtual non-volatile extranet,2024-07-28,100,40,73,466,30,Final
+649,349,Cloned client-driven standardization,2024-03-09,100,40,180,667,35,Midterm
+650,23,Front-line interactive system engine,2024-07-23,100,40,86,126,84,Quiz
+651,144,Secured impactful core,2025-01-12,100,40,116,390,8,Midterm
+652,172,Cloned 4thgeneration attitude,2024-04-17,100,40,85,490,64,Final
+653,47,Re-contextualized radical database,2024-12-11,100,40,102,71,64,Quiz
+654,4,Automated hybrid knowledgebase,2024-06-11,100,40,153,844,25,Quiz
+655,358,De-engineered high-level website,2024-11-27,100,40,46,923,32,Final
+656,112,User-centric methodical emulation,2024-05-28,100,40,105,832,18,Midterm
+657,242,Monitored mobile support,2024-02-19,100,40,118,851,98,Quiz
+658,458,Secured zero-defect orchestration,2024-10-22,100,40,80,374,31,Quiz
+659,28,Expanded intermediate forecast,2025-01-23,100,40,96,388,73,Quiz
+660,110,Advanced reciprocal Graphical User Interface,2024-03-24,100,40,58,275,24,Midterm
+661,14,Assimilated human-resource alliance,2024-12-09,100,40,31,4,62,Final
+662,303,Triple-buffered real-time product,2024-04-22,100,40,50,167,87,Final
+663,43,Re-engineered context-sensitive groupware,2024-08-09,100,40,85,994,66,Quiz
+664,30,Synergistic 24hour productivity,2024-11-28,100,40,116,103,7,Quiz
+665,373,Persevering context-sensitive hub,2024-10-29,100,40,80,561,17,Quiz
+666,329,Function-based empowering contingency,2024-04-22,100,40,165,254,23,Quiz
+667,146,Persevering fresh-thinking pricing structure,2024-04-01,100,40,148,696,64,Final
+668,86,Centralized cohesive moratorium,2024-07-11,100,40,107,315,13,Midterm
+669,496,Fundamental fresh-thinking application,2024-08-08,100,40,176,817,26,Quiz
+670,479,Fundamental homogeneous archive,2024-09-29,100,40,34,856,30,Quiz
+671,300,Implemented coherent application,2024-07-14,100,40,64,383,27,Midterm
+672,184,Reactive empowering leverage,2024-08-05,100,40,31,42,8,Final
+673,400,Networked human-resource concept,2024-08-04,100,40,94,307,82,Quiz
+674,71,Balanced systematic complexity,2025-01-08,100,40,101,248,17,Final
+675,109,Versatile directional matrices,2024-11-14,100,40,163,842,25,Quiz
+676,205,Robust object-oriented circuit,2024-08-27,100,40,122,442,100,Quiz
+677,249,Visionary local intranet,2024-10-28,100,40,147,366,85,Quiz
+678,182,Automated web-enabled time-frame,2024-10-07,100,40,41,39,66,Midterm
+679,24,Public-key scalable time-frame,2024-04-03,100,40,170,128,34,Midterm
+680,216,Reverse-engineered bi-directional knowledge user,2024-02-07,100,40,129,846,5,Quiz
+681,335,Distributed analyzing open architecture,2024-06-22,100,40,173,921,41,Quiz
+682,244,Proactive system-worthy workforce,2024-10-01,100,40,92,492,9,Final
+683,16,Reverse-engineered content-based conglomeration,2024-03-16,100,40,99,761,41,Final
+684,459,Polarized bi-directional portal,2024-09-03,100,40,145,465,41,Final
+685,258,Sharable fresh-thinking support,2024-09-17,100,40,53,256,96,Midterm
+686,379,Reverse-engineered fresh-thinking focus group,2024-05-23,100,40,149,445,29,Final
+687,339,Team-oriented coherent framework,2024-07-19,100,40,150,953,88,Midterm
+688,52,Self-enabling local model,2024-09-19,100,40,116,44,36,Quiz
+689,418,Right-sized system-worthy open architecture,2024-06-22,100,40,67,824,23,Midterm
+690,156,Extended explicit portal,2024-03-26,100,40,154,303,77,Quiz
+691,129,Fundamental 6thgeneration encoding,2024-07-18,100,40,116,744,58,Final
+692,33,Quality-focused bifurcated leverage,2024-02-25,100,40,114,584,36,Quiz
+693,278,Customizable impactful archive,2024-11-03,100,40,118,848,74,Final
+694,475,Networked bandwidth-monitored analyzer,2024-08-12,100,40,121,486,81,Final
+695,270,Implemented 4thgeneration adapter,2024-02-29,100,40,39,795,13,Final
+696,470,Versatile bandwidth-monitored functionalities,2025-01-20,100,40,78,129,62,Midterm
+697,175,User-friendly executive middleware,2024-12-28,100,40,111,893,84,Quiz
+698,469,Public-key fresh-thinking neural-net,2024-10-02,100,40,163,272,89,Final
+699,417,Synergistic needs-based paradigm,2024-10-22,100,40,109,434,91,Final
+700,155,Customer-focused multi-tasking knowledgebase,2024-11-15,100,40,107,103,27,Quiz
+701,429,Public-key methodical website,2024-09-15,100,40,142,208,24,Midterm
+702,233,Automated asynchronous process improvement,2024-11-16,100,40,115,168,73,Midterm
+703,435,Synchronized didactic framework,2024-11-04,100,40,158,466,58,Midterm
+704,322,Realigned intermediate task-force,2024-12-31,100,40,38,693,82,Quiz
+705,195,User-centric even-keeled data-warehouse,2024-11-16,100,40,54,976,40,Midterm
+706,197,Monitored client-server structure,2024-10-05,100,40,149,886,29,Midterm
+707,8,Automated interactive strategy,2024-05-14,100,40,69,43,25,Final
+708,198,Customizable neutral extranet,2024-08-30,100,40,103,569,70,Final
+709,41,Persistent contextually-based matrices,2024-04-03,100,40,60,755,9,Midterm
+710,160,Synergized systemic definition,2024-05-09,100,40,166,391,44,Quiz
+711,271,Expanded even-keeled archive,2024-05-15,100,40,169,792,31,Midterm
+712,446,Optimized incremental website,2024-11-03,100,40,163,372,90,Midterm
+713,318,Innovative explicit moratorium,2024-05-19,100,40,31,279,96,Final
+714,136,Triple-buffered cohesive instruction set,2024-08-08,100,40,45,787,47,Midterm
+715,464,Visionary full-range collaboration,2024-02-16,100,40,66,721,48,Final
+716,343,Decentralized next generation intranet,2024-02-29,100,40,131,134,78,Midterm
+717,312,Fundamental stable database,2024-03-19,100,40,48,306,97,Final
+718,171,Advanced human-resource forecast,2025-01-01,100,40,38,293,3,Quiz
+719,189,Optimized optimal migration,2024-06-26,100,40,133,622,31,Quiz
+720,6,Triple-buffered optimizing pricing structure,2024-10-05,100,40,98,388,84,Final
+721,221,Synergistic value-added framework,2024-12-21,100,40,168,589,70,Quiz
+722,460,Optimized local Graphical User Interface,2024-01-31,100,40,31,33,100,Quiz
+723,217,Cross-group even-keeled forecast,2024-08-12,100,40,78,144,45,Midterm
+724,171,Reverse-engineered object-oriented secured line,2024-02-07,100,40,116,956,29,Midterm
+725,105,Triple-buffered value-added archive,2025-01-12,100,40,64,141,7,Midterm
+726,89,Configurable human-resource challenge,2024-03-11,100,40,87,431,96,Midterm
+727,323,Robust solution-oriented encryption,2024-06-24,100,40,108,453,97,Midterm
+728,325,Advanced optimizing framework,2024-05-19,100,40,160,605,99,Final
+729,125,Pre-emptive neutral support,2024-03-10,100,40,70,247,8,Final
+730,298,Business-focused zero administration flexibility,2024-12-28,100,40,130,479,83,Final
+731,151,Centralized interactive matrices,2024-11-12,100,40,101,888,89,Quiz
+732,378,Reverse-engineered optimizing challenge,2024-10-25,100,40,41,886,91,Quiz
+733,26,Robust clear-thinking strategy,2024-07-01,100,40,63,448,52,Final
+734,374,Grass-roots bi-directional website,2025-01-17,100,40,85,359,6,Midterm
+735,231,Synergistic multi-state data-warehouse,2025-01-09,100,40,124,731,51,Quiz
+736,277,Seamless fault-tolerant open system,2024-04-21,100,40,127,316,91,Midterm
+737,456,Multi-layered analyzing array,2025-01-11,100,40,169,36,1,Final
+738,254,Multi-tiered incremental methodology,2024-02-02,100,40,80,424,37,Midterm
+739,497,Reduced hybrid matrices,2024-02-22,100,40,140,606,62,Midterm
+740,129,Balanced responsive leverage,2024-10-22,100,40,139,63,54,Midterm
+741,443,Versatile content-based portal,2024-12-13,100,40,60,418,8,Quiz
+742,224,Programmable optimal archive,2024-06-28,100,40,166,97,97,Final
+743,414,Team-oriented cohesive Local Area Network,2024-06-09,100,40,167,296,59,Final
+744,15,Face-to-face heuristic matrix,2024-04-01,100,40,178,87,15,Final
+745,177,Profound leadingedge utilization,2024-04-16,100,40,101,238,41,Midterm
+746,262,Diverse reciprocal benchmark,2024-05-02,100,40,110,533,56,Midterm
+747,408,Down-sized explicit Graphic Interface,2024-08-21,100,40,94,296,69,Midterm
+748,370,Function-based incremental hub,2024-07-07,100,40,91,919,90,Final
+749,44,De-engineered encompassing orchestration,2024-02-09,100,40,105,626,99,Final
+750,366,Optimized incremental data-warehouse,2024-06-08,100,40,172,412,15,Quiz
+751,47,Seamless attitude-oriented flexibility,2024-04-12,100,40,120,222,72,Quiz
+752,364,Reactive fault-tolerant process improvement,2024-06-18,100,40,101,649,1,Final
+753,344,Open-architected 3rdgeneration approach,2024-03-03,100,40,74,561,79,Final
+754,137,Virtual directional neural-net,2024-07-07,100,40,73,771,82,Quiz
+755,2,Cross-platform optimal standardization,2024-03-29,100,40,48,629,45,Midterm
+756,133,Stand-alone systemic alliance,2024-11-07,100,40,140,668,55,Quiz
+757,427,Intuitive radical projection,2024-10-07,100,40,155,557,17,Quiz
+758,229,Multi-tiered stable frame,2024-10-07,100,40,76,971,50,Midterm
+759,276,De-engineered reciprocal customer loyalty,2024-05-04,100,40,157,860,57,Final
+760,339,Virtual 6thgeneration framework,2025-01-06,100,40,36,27,16,Final
+761,476,Integrated object-oriented info-mediaries,2024-06-01,100,40,30,191,42,Midterm
+762,98,Focused national portal,2024-08-09,100,40,146,963,63,Final
+763,298,Proactive non-volatile encryption,2024-02-20,100,40,156,23,42,Final
+764,123,Vision-oriented value-added utilization,2024-06-27,100,40,135,966,74,Final
+765,17,Focused disintermediate intranet,2024-10-25,100,40,88,668,41,Quiz
+766,162,Profound didactic leverage,2024-08-21,100,40,53,177,36,Quiz
+767,396,Centralized maximized throughput,2024-06-02,100,40,111,319,62,Final
+768,279,Cloned bottom-line methodology,2024-07-29,100,40,66,450,33,Final
+769,53,Monitored attitude-oriented attitude,2024-06-22,100,40,103,1,79,Midterm
+770,108,Function-based regional superstructure,2024-09-12,100,40,152,284,79,Final
+771,387,Implemented motivating hardware,2024-11-02,100,40,96,505,19,Quiz
+772,484,Persistent clear-thinking encryption,2024-12-25,100,40,114,46,78,Quiz
+773,89,Networked stable standardization,2024-05-28,100,40,141,337,34,Midterm
+774,103,Ameliorated incremental frame,2024-06-29,100,40,138,73,97,Quiz
+775,91,Implemented incremental portal,2024-11-09,100,40,50,184,8,Final
+776,375,Persevering 6thgeneration productivity,2024-11-06,100,40,66,794,60,Midterm
+777,419,Upgradable demand-driven hardware,2024-09-22,100,40,93,690,55,Final
+778,333,Multi-lateral object-oriented monitoring,2024-10-03,100,40,124,107,86,Final
+779,446,Organized foreground knowledge user,2024-04-14,100,40,102,50,26,Final
+780,410,Reverse-engineered bandwidth-monitored solution,2024-09-03,100,40,63,936,21,Final
+781,35,Operative 5thgeneration intranet,2024-02-11,100,40,137,170,99,Final
+782,196,Integrated multimedia middleware,2024-03-13,100,40,125,167,21,Midterm
+783,182,Reactive value-added moratorium,2024-12-17,100,40,146,704,34,Final
+784,2,Function-based 3rdgeneration orchestration,2024-08-18,100,40,131,211,18,Quiz
+785,212,Grass-roots exuding instruction set,2024-08-11,100,40,141,106,95,Quiz
+786,428,Reactive contextually-based focus group,2024-09-22,100,40,31,931,42,Midterm
+787,486,Visionary user-facing synergy,2024-05-13,100,40,162,837,62,Midterm
+788,355,Cross-group bottom-line complexity,2024-02-02,100,40,95,608,18,Midterm
+789,285,Enterprise-wide cohesive protocol,2024-10-10,100,40,165,339,58,Final
+790,266,Integrated content-based function,2024-04-16,100,40,122,827,83,Final
+791,324,Visionary 24/7 knowledge user,2024-03-21,100,40,157,91,54,Midterm
+792,233,Cloned heuristic forecast,2024-02-09,100,40,33,461,40,Quiz
+793,471,User-friendly bifurcated algorithm,2024-12-18,100,40,160,851,93,Midterm
+794,414,User-centric clear-thinking matrices,2025-01-15,100,40,93,697,45,Final
+795,488,Decentralized bandwidth-monitored middleware,2024-02-20,100,40,61,578,2,Final
+796,6,Re-engineered eco-centric hub,2024-05-29,100,40,139,107,24,Final
+797,431,Organic scalable parallelism,2024-07-17,100,40,64,910,9,Final
+798,346,Open-source exuding moratorium,2024-02-25,100,40,112,713,39,Quiz
+799,378,Multi-tiered discrete help-desk,2024-08-04,100,40,102,359,15,Midterm
+800,87,Cross-group interactive capacity,2024-03-22,100,40,173,195,70,Quiz
+801,315,Customizable fault-tolerant array,2024-08-07,100,40,145,738,56,Midterm
+802,379,Configurable dedicated attitude,2024-12-01,100,40,99,719,68,Midterm
+803,243,Future-proofed full-range help-desk,2024-07-30,100,40,120,862,79,Final
+804,1,Switchable logistical monitoring,2024-06-18,100,40,118,403,36,Final
+805,437,Multi-channeled background matrix,2024-12-20,100,40,146,513,24,Final
+806,318,Cross-group zero-defect challenge,2024-02-27,100,40,129,368,78,Final
+807,156,Cross-group empowering structure,2024-12-13,100,40,126,905,99,Final
+808,331,Cloned optimizing infrastructure,2025-01-14,100,40,164,878,34,Midterm
+809,296,Digitized multimedia middleware,2024-02-21,100,40,112,896,63,Quiz
+810,103,User-centric analyzing framework,2024-07-28,100,40,139,208,15,Quiz
+811,399,Centralized discrete workforce,2024-04-19,100,40,61,919,92,Midterm
+812,90,Fully-configurable dynamic superstructure,2024-05-27,100,40,48,218,26,Final
+813,390,User-friendly upward-trending methodology,2024-10-30,100,40,52,808,55,Quiz
+814,416,Configurable next generation archive,2024-10-25,100,40,39,736,58,Quiz
+815,331,Optional didactic encoding,2024-10-13,100,40,71,925,64,Quiz
+816,33,Reduced multi-state orchestration,2024-02-17,100,40,111,74,47,Midterm
+817,409,Fully-configurable logistical functionalities,2024-05-16,100,40,179,305,27,Quiz
+818,385,Diverse heuristic definition,2024-10-18,100,40,160,330,41,Quiz
+819,119,Future-proofed clear-thinking application,2024-06-07,100,40,159,671,36,Quiz
+820,26,Networked human-resource service-desk,2025-01-07,100,40,165,302,61,Final
+821,22,Front-line hybrid intranet,2024-06-28,100,40,99,796,74,Midterm
+822,330,Optimized logistical protocol,2024-05-05,100,40,90,408,84,Midterm
+823,153,Integrated didactic core,2024-12-30,100,40,97,158,48,Quiz
+824,29,Vision-oriented asymmetric Graphical User Interface,2024-03-08,100,40,93,603,44,Quiz
+825,493,Seamless leadingedge attitude,2024-02-06,100,40,168,463,12,Final
+826,325,Virtual bandwidth-monitored utilization,2024-05-30,100,40,158,441,59,Quiz
+827,351,Robust intangible migration,2024-04-13,100,40,137,962,55,Quiz
+828,366,Re-contextualized methodical paradigm,2024-12-30,100,40,154,193,33,Quiz
+829,35,Decentralized bottom-line core,2024-10-28,100,40,104,469,16,Midterm
+830,26,Open-architected hybrid strategy,2024-02-18,100,40,153,450,44,Midterm
+831,16,Focused holistic migration,2024-10-17,100,40,148,720,29,Quiz
+832,294,Managed tangible firmware,2024-10-27,100,40,136,345,42,Midterm
+833,88,Persevering intermediate approach,2024-07-10,100,40,82,315,70,Midterm
+834,182,Seamless regional data-warehouse,2024-08-05,100,40,68,507,76,Final
+835,416,Universal next generation hardware,2025-01-26,100,40,64,482,22,Midterm
+836,395,Right-sized cohesive service-desk,2024-04-15,100,40,37,123,9,Final
+837,337,Programmable discrete model,2024-12-19,100,40,54,317,17,Final
+838,104,Face-to-face actuating definition,2024-12-22,100,40,34,943,86,Final
+839,128,Cloned non-volatile challenge,2024-02-25,100,40,141,208,89,Midterm
+840,255,Persistent foreground migration,2024-12-30,100,40,68,778,89,Final
+841,219,Networked clear-thinking open architecture,2024-02-07,100,40,94,286,8,Midterm
+842,246,Decentralized transitional core,2024-04-30,100,40,44,725,19,Quiz
+843,192,Vision-oriented reciprocal Internet solution,2024-09-18,100,40,122,521,28,Quiz
+844,13,Balanced tangible protocol,2024-04-27,100,40,174,199,89,Quiz
+845,83,Extended composite emulation,2024-05-04,100,40,171,656,41,Final
+846,199,Customizable encompassing contingency,2024-10-19,100,40,85,641,86,Midterm
+847,72,Digitized client-server encoding,2024-11-19,100,40,131,894,44,Midterm
+848,462,Sharable systemic functionalities,2024-08-02,100,40,47,158,4,Quiz
+849,329,Stand-alone cohesive encoding,2024-09-16,100,40,58,866,76,Quiz
+850,35,Multi-layered foreground project,2024-03-07,100,40,154,207,81,Final
+851,142,Pre-emptive well-modulated knowledgebase,2024-10-15,100,40,98,178,10,Quiz
+852,271,Versatile motivating website,2025-01-05,100,40,102,157,47,Quiz
+853,188,Down-sized zero-defect artificial intelligence,2024-02-22,100,40,110,337,74,Quiz
+854,224,Proactive next generation framework,2024-05-28,100,40,113,600,15,Final
+855,146,Enterprise-wide scalable knowledgebase,2024-10-02,100,40,134,764,11,Midterm
+856,426,Open-architected analyzing strategy,2024-03-13,100,40,173,648,54,Final
+857,391,Customer-focused discrete installation,2024-12-12,100,40,131,870,10,Final
+858,163,Organic uniform hardware,2024-09-02,100,40,97,506,28,Quiz
+859,194,Inverse intermediate adapter,2024-12-15,100,40,174,323,62,Quiz
+860,110,Horizontal tertiary flexibility,2024-10-18,100,40,131,218,85,Midterm
+861,317,Open-architected optimal challenge,2024-05-31,100,40,141,642,5,Midterm
+862,269,Ergonomic regional support,2024-11-20,100,40,68,722,48,Midterm
+863,465,Adaptive mobile capability,2024-09-09,100,40,148,669,73,Midterm
+864,34,Digitized 24hour moratorium,2024-04-04,100,40,161,839,1,Final
+865,98,Monitored disintermediate flexibility,2024-02-16,100,40,46,153,18,Midterm
+866,253,Polarized attitude-oriented application,2024-08-29,100,40,112,417,4,Midterm
+867,3,Right-sized secondary complexity,2024-05-06,100,40,48,32,26,Midterm
+868,221,Mandatory upward-trending task-force,2024-11-17,100,40,105,594,95,Quiz
+869,22,Expanded radical support,2025-01-15,100,40,61,541,17,Final
+870,475,Assimilated executive product,2025-01-27,100,40,106,493,56,Quiz
+871,360,Managed coherent Local Area Network,2024-12-13,100,40,160,90,94,Quiz
+872,495,Multi-tiered hybrid application,2024-10-06,100,40,73,612,5,Quiz
+873,215,Integrated web-enabled emulation,2024-05-26,100,40,166,911,29,Final
+874,9,Seamless scalable budgetary management,2024-12-30,100,40,73,313,28,Midterm
+875,30,Upgradable needs-based attitude,2024-12-27,100,40,68,719,44,Midterm
+876,112,Polarized value-added methodology,2024-02-27,100,40,65,235,26,Quiz
+877,281,Robust homogeneous alliance,2025-01-26,100,40,86,152,77,Midterm
+878,238,Profound multi-state process improvement,2024-12-05,100,40,175,28,52,Midterm
+879,232,Networked user-facing parallelism,2024-11-14,100,40,100,676,15,Final
+880,268,Fundamental didactic product,2024-04-17,100,40,70,818,87,Final
+881,54,Automated mission-critical protocol,2025-01-08,100,40,160,944,97,Midterm
+882,102,Horizontal didactic monitoring,2024-12-14,100,40,135,763,29,Quiz
+883,157,Re-contextualized empowering ability,2024-12-05,100,40,127,483,40,Final
+884,65,Multi-tiered background knowledge user,2024-07-06,100,40,89,584,42,Final
+885,120,Robust foreground array,2024-04-23,100,40,83,920,51,Quiz
+886,369,Customizable 4thgeneration project,2024-11-17,100,40,142,655,2,Midterm
+887,117,Reverse-engineered intermediate initiative,2024-06-08,100,40,116,626,54,Quiz
+888,331,Advanced asymmetric Graphical User Interface,2024-06-08,100,40,64,555,52,Quiz
+889,276,Virtual contextually-based challenge,2024-07-21,100,40,131,618,69,Quiz
+890,240,Compatible next generation intranet,2024-06-21,100,40,93,367,46,Final
+891,98,Profit-focused dynamic productivity,2024-04-02,100,40,77,481,55,Midterm
+892,166,Balanced interactive concept,2024-10-14,100,40,125,522,12,Final
+893,190,User-friendly real-time service-desk,2024-11-23,100,40,121,216,61,Final
+894,357,Organic responsive analyzer,2024-02-10,100,40,157,186,88,Final
+895,184,Realigned heuristic process improvement,2024-09-14,100,40,180,290,14,Midterm
+896,270,Decentralized multi-state software,2024-06-11,100,40,34,998,27,Quiz
+897,195,Exclusive responsive secured line,2024-02-23,100,40,89,762,73,Quiz
+898,218,Operative actuating toolset,2024-04-28,100,40,121,919,12,Quiz
+899,278,Optimized value-added architecture,2024-12-12,100,40,59,303,78,Quiz
+900,259,Right-sized zero tolerance methodology,2024-05-14,100,40,83,369,66,Quiz
+901,39,De-engineered tertiary productivity,2024-04-08,100,40,43,731,11,Midterm
+902,390,Progressive interactive ability,2024-07-26,100,40,35,788,35,Midterm
+903,53,De-engineered incremental moderator,2024-03-13,100,40,170,692,52,Midterm
+904,367,Pre-emptive asymmetric alliance,2024-10-15,100,40,91,136,40,Quiz
+905,123,Synergized object-oriented moratorium,2024-04-19,100,40,149,876,38,Midterm
+906,55,Exclusive optimizing hardware,2024-06-15,100,40,67,324,88,Midterm
+907,89,Realigned coherent attitude,2024-10-03,100,40,166,448,46,Quiz
+908,334,Horizontal zero-defect project,2024-06-06,100,40,153,258,11,Final
+909,155,Future-proofed regional analyzer,2024-03-14,100,40,106,135,66,Quiz
+910,39,Cloned tangible data-warehouse,2024-03-29,100,40,124,516,42,Final
+911,328,Phased optimizing customer loyalty,2024-07-11,100,40,59,276,13,Midterm
+912,466,Seamless optimal project,2025-01-07,100,40,92,246,46,Quiz
+913,66,Proactive 24hour collaboration,2024-03-08,100,40,42,59,93,Quiz
+914,317,Realigned heuristic infrastructure,2025-01-12,100,40,83,777,10,Midterm
+915,414,Balanced foreground emulation,2024-08-15,100,40,99,10,91,Midterm
+916,322,Digitized 5thgeneration ability,2024-09-30,100,40,132,655,1,Quiz
+917,441,Customizable 5thgeneration interface,2024-07-14,100,40,103,663,31,Quiz
+918,109,Switchable multimedia architecture,2024-08-01,100,40,167,625,89,Final
+919,292,Reactive asynchronous approach,2024-02-28,100,40,74,495,85,Final
+920,280,Right-sized stable process improvement,2024-04-15,100,40,64,669,67,Quiz
+921,49,Sharable static synergy,2024-05-15,100,40,82,539,55,Midterm
+922,216,Quality-focused clear-thinking circuit,2024-02-18,100,40,119,508,2,Midterm
+923,184,Focused cohesive software,2024-06-06,100,40,72,96,99,Midterm
+924,151,Reactive even-keeled analyzer,2024-09-09,100,40,61,876,50,Final
+925,106,Enhanced demand-driven complexity,2024-12-09,100,40,174,347,24,Midterm
+926,426,Monitored bi-directional protocol,2024-05-25,100,40,176,275,41,Quiz
+927,240,Re-contextualized demand-driven migration,2024-09-12,100,40,106,127,1,Quiz
+928,117,Enterprise-wide upward-trending moderator,2024-05-11,100,40,157,901,94,Midterm
+929,195,Automated reciprocal emulation,2024-05-20,100,40,137,525,55,Quiz
+930,222,Profound radical system engine,2024-04-17,100,40,123,552,76,Quiz
+931,137,Fundamental zero administration groupware,2024-10-11,100,40,99,915,51,Final
+932,398,Extended full-range software,2024-07-20,100,40,54,819,25,Quiz
+933,7,Operative content-based info-mediaries,2024-11-04,100,40,60,348,40,Quiz
+934,282,Total interactive instruction set,2024-02-12,100,40,46,272,3,Quiz
+935,336,Open-architected multi-tasking analyzer,2024-07-06,100,40,50,619,9,Quiz
+936,155,Operative upward-trending customer loyalty,2025-01-29,100,40,140,868,39,Quiz
+937,158,Function-based neutral Graphical User Interface,2024-02-24,100,40,161,637,39,Quiz
+938,197,Up-sized global challenge,2024-12-27,100,40,128,992,89,Final
+939,121,Synergistic context-sensitive orchestration,2024-03-16,100,40,86,433,95,Quiz
+940,113,Sharable secondary firmware,2025-01-05,100,40,38,194,88,Quiz
+941,86,Right-sized solution-oriented installation,2024-05-30,100,40,149,81,71,Midterm
+942,241,Virtual zero administration functionalities,2024-08-23,100,40,94,34,53,Final
+943,369,Proactive well-modulated architecture,2024-04-08,100,40,67,586,17,Final
+944,496,Enterprise-wide 24hour policy,2024-10-04,100,40,109,458,27,Final
+945,41,Fundamental local system engine,2024-08-20,100,40,165,921,99,Midterm
+946,117,Vision-oriented uniform knowledgebase,2024-03-29,100,40,62,51,9,Midterm
+947,26,Profound multi-tasking access,2024-09-05,100,40,73,458,46,Midterm
+948,386,Compatible fault-tolerant function,2024-02-18,100,40,80,221,21,Quiz
+949,184,Profit-focused bi-directional protocol,2025-01-24,100,40,47,682,6,Final
+950,7,Future-proofed even-keeled hardware,2024-05-01,100,40,179,226,36,Quiz
+951,176,Synergized interactive support,2024-03-12,100,40,60,261,17,Quiz
+952,240,Customizable 3rdgeneration hardware,2024-12-08,100,40,127,894,64,Quiz
+953,304,Synergistic dedicated data-warehouse,2024-08-31,100,40,125,950,67,Quiz
+954,481,Automated actuating website,2024-08-02,100,40,61,304,100,Quiz
+955,98,Versatile neutral Local Area Network,2024-11-18,100,40,55,817,48,Final
+956,196,Robust 24hour intranet,2024-04-21,100,40,129,478,49,Final
+957,97,Devolved modular instruction set,2024-06-25,100,40,106,615,16,Final
+958,86,Focused 6thgeneration customer loyalty,2025-01-13,100,40,82,173,1,Final
+959,362,Down-sized cohesive toolset,2024-11-26,100,40,46,339,95,Final
+960,35,Digitized context-sensitive info-mediaries,2024-07-10,100,40,115,214,52,Midterm
+961,16,Diverse stable Graphical User Interface,2024-11-16,100,40,62,1000,56,Final
+962,75,Synchronized well-modulated architecture,2024-04-04,100,40,132,338,91,Midterm
+963,277,Diverse intermediate website,2024-12-27,100,40,89,374,12,Quiz
+964,137,Team-oriented 6thgeneration instruction set,2024-10-22,100,40,151,561,35,Quiz
+965,80,Future-proofed intangible instruction set,2024-11-03,100,40,82,983,18,Quiz
+966,494,Profound solution-oriented system engine,2024-04-10,100,40,97,140,1,Midterm
+967,192,Vision-oriented intangible artificial intelligence,2024-07-24,100,40,55,40,17,Final
+968,273,Sharable mobile capability,2024-05-17,100,40,165,839,76,Quiz
+969,368,Reverse-engineered fault-tolerant interface,2024-09-22,100,40,47,77,100,Quiz
+970,419,Pre-emptive 24hour standardization,2025-01-23,100,40,114,547,86,Final
+971,16,User-friendly discrete capability,2024-08-15,100,40,141,773,40,Quiz
+972,322,Networked exuding orchestration,2024-03-17,100,40,55,19,48,Final
+973,117,Persistent dedicated ability,2024-03-19,100,40,171,4,2,Final
+974,268,Self-enabling didactic project,2024-05-25,100,40,49,788,100,Quiz
+975,134,Cross-group bottom-line time-frame,2024-08-21,100,40,49,647,56,Quiz
+976,268,Function-based system-worthy strategy,2024-04-21,100,40,81,789,19,Final
+977,193,Intuitive value-added methodology,2024-04-13,100,40,42,19,59,Quiz
+978,223,Pre-emptive uniform core,2024-10-11,100,40,137,58,23,Midterm
+979,86,Digitized user-facing hub,2024-06-28,100,40,56,441,85,Quiz
+980,179,Switchable fresh-thinking encryption,2024-05-14,100,40,82,46,28,Midterm
+981,479,Down-sized bifurcated paradigm,2025-01-03,100,40,40,451,31,Quiz
+982,208,Proactive high-level budgetary management,2024-04-04,100,40,117,102,13,Final
+983,488,Synergized systematic time-frame,2024-05-19,100,40,141,707,74,Midterm
+984,204,Switchable client-driven system engine,2024-03-13,100,40,95,792,75,Midterm
+985,42,Face-to-face optimal methodology,2024-06-12,100,40,62,465,61,Final
+986,403,Extended system-worthy intranet,2024-04-10,100,40,61,708,48,Midterm
+987,107,Profound executive flexibility,2024-03-08,100,40,76,653,42,Quiz
+988,287,Devolved grid-enabled intranet,2024-10-31,100,40,180,714,74,Final
+989,46,Public-key 5thgeneration workforce,2024-06-09,100,40,34,658,88,Final
+990,146,Total client-server software,2024-02-14,100,40,152,284,45,Quiz
+991,473,Centralized full-range forecast,2024-08-10,100,40,70,282,57,Midterm
+992,145,Exclusive bottom-line circuit,2025-01-21,100,40,78,712,77,Final
+993,494,Switchable zero administration circuit,2024-02-06,100,40,87,740,98,Midterm
+994,284,Expanded exuding adapter,2024-10-13,100,40,72,49,49,Final
+995,112,Fully-configurable 5thgeneration info-mediaries,2024-05-12,100,40,124,668,55,Midterm
+996,171,Streamlined 6thgeneration frame,2024-03-10,100,40,33,603,14,Midterm
+997,188,Function-based user-facing concept,2024-04-30,100,40,172,572,15,Final
+998,41,Triple-buffered exuding toolset,2024-12-02,100,40,158,126,9,Midterm
+999,55,Progressive object-oriented toolset,2024-02-05,100,40,45,67,28,Quiz
+1000,330,Centralized impactful paradigm,2024-05-07,100,40,76,384,80,Midterm
